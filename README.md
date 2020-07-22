@@ -2,7 +2,7 @@
 
 This code can be used to take union or intersection of the lists on letterboxd.
 In my opinion, these features can be very useful for finding movies belonging to meaningful sets.
-For example: We can use it to find movies that are in the watchlists of many different people whichh can be used while watching movies in a group.
+For example: We can use it to find movies that are in the watchlists of many different people which can be used to decide the movies to watch in a group.
 
 ## How to use
 1. Update the list of urls of the lists or watchlists you want to use.
