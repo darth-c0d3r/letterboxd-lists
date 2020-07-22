@@ -1,0 +1,6 @@
+# just put in the link to the homepage, the code automatically gets all the pages
+# make sure to end the URLs with a slash (/)
+# use hash (#) to comment out lines
+
+https://letterboxd.com/gps06/watchlist/
+https://letterboxd.com/adrianbalboa/list/good-movies-with-no-sex-scenes-to-watch-with/
